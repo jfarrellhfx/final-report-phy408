@@ -1,0 +1,501 @@
+title,price,publisher,units
+Return of Wolverine,4.99,Marvel,260410.0
+Heroes In Crisis,3.99,DC,140699.0
+Doomsday Clock,4.99,DC,130973.0
+Batman,3.99,DC,105609.0
+Batman Damned,6.99,DC,95483.0
+Batman,3.99,DC,94685.0
+Thanos Legacy,4.99,Marvel,92143.0
+Fantastic Four,3.99,Marvel,85540.0
+Amazing Spider-Man,3.99,Marvel,84376.0
+Amazing Spider-Man,3.99,Marvel,82934.0
+Justice League,3.99,DC,76360.0
+Spidergeddon,4.99,Marvel,74507.0
+Justice League,3.99,DC,74393.0
+Amazing Spider-Man Annual,4.99,Marvel,73835.0
+Venom,3.99,Marvel,73543.0
+Superman,3.99,DC,67405.0
+Avengers,3.99,Marvel,65815.0
+Infinity Wars,4.99,Marvel,63700.0
+Walking Dead,3.99,Image,62514.0
+Stranger Things,3.99,Dark Horse,60139.0
+Avengers,3.99,Marvel,58060.0
+Action Comics,3.99,DC,57865.0
+Justice League Odyssey,3.99,DC,57114.0
+Catwoman,3.99,DC,55068.0
+Thor,3.99,Marvel,54446.0
+Captain America,3.99,Marvel,53188.0
+Detective Comics,3.99,DC,51405.0
+Detective Comics,3.99,DC,50479.0
+Star Wars,3.99,Marvel,46982.0
+Flash,3.99,DC,46677.0
+Immortal Hulk,3.99,Marvel,46676.0
+Star Wars Darth Vader,3.99,Marvel,46479.0
+Flash,3.99,DC,45729.0
+Immortal Hulk,3.99,Marvel,44741.0
+Justice League Dark,3.99,DC,44656.0
+Cosmic Ghost Rider,3.99,Marvel,44428.0
+Star Wars,3.99,Marvel,44127.0
+Punisher,3.99,Marvel,42778.0
+Extermination,3.99,Marvel,41804.0
+True Believers Punisher First Appearance,1.0,Marvel,41660.0
+Asgardians of the Galaxy,3.99,Marvel,40941.0
+X-Men Red,3.99,Marvel,39763.0
+Iceman,3.99,Marvel,38902.0
+Deadpool,3.99,Marvel,38899.0
+Mister Miracle,3.99,DC,38489.0
+Venom First Host,3.99,Marvel,37918.0
+Dreaming,3.99,DC,37258.0
+Venom First Host,3.99,Marvel,37050.0
+Captain America Annual,4.99,Marvel,37024.0
+Venom First Host,3.99,Marvel,36234.0
+Venom First Host,3.99,Marvel,36038.0
+X-Men Gold,3.99,Marvel,35430.0
+Infinity Wars Soldier Supreme,3.99,Marvel,34998.0
+Wonder Woman,3.99,DC,34966.0
+Infinity Wars Iron Hammer,3.99,Marvel,34666.0
+Wonder Woman,3.99,DC,33851.0
+X-23,3.99,Marvel,33575.0
+Oblivion Song By Kirkman & De Felici,3.99,Image,32548.0
+Astonishing X-Men,3.99,Marvel,32052.0
+Edge of Spider-Geddon,3.99,Marvel,32038.0
+Edge of Spider-Geddon,3.99,Marvel,32019.0
+Doctor Strange,3.99,Marvel,31890.0
+X-Men Gold,3.99,Marvel,31615.0
+Deathstroke,3.99,DC,31554.0
+X-Men Blue,3.99,Marvel,31387.0
+Aquaman,3.99,DC,31010.0
+Black Panther,3.99,Marvel,30951.0
+Old Man Logan Annual,4.99,Marvel,30868.0
+Teen Titans,3.99,DC,30608.0
+Harley Quinn,4.99,DC,30059.0
+Harley Quinn,3.99,DC,29293.0
+Life of Captain Marvel,3.99,Marvel,29047.0
+Old Man Logan,3.99,Marvel,29042.0
+Batgirl,3.99,DC,28843.0
+Titans,4.99,DC,28654.0
+Old Man Logan,3.99,Marvel,28572.0
+House of Whispers,3.99,DC,28346.0
+Titans,3.99,DC,28240.0
+Cover,3.99,DC,27354.0
+Star Wars Doctor Aphra,3.99,Marvel,27329.0
+Suicide Squad,3.99,DC,27306.0
+X-Men Blue,3.99,Marvel,27278.0
+Batman Kings of Fear,3.99,DC,27137.0
+Bully Wars,3.99,Image,27134.0
+Death of Inhumans,3.99,Marvel,26710.0
+Adventures of the Super Sons,3.99,DC,26500.0
+Nightwing,3.99,DC,25733.0
+Nightwing,3.99,DC,25475.0
+Peter Parker Spectacular Spider-Man,3.99,Marvel,24812.0
+Red Hood and the Outlaws,3.99,DC,24688.0
+Hawkman,3.99,DC,24687.0
+Domino Annual,4.99,Marvel,24498.0
+West Coast Avengers,3.99,Marvel,24476.0
+Star Wars Doctor Aphra Annual,4.99,Marvel,24339.0
+Marvel Two-In-One,3.99,Marvel,24311.0
+Peter Parker Spectacular Spider-Man,3.99,Marvel,24261.0
+Mr and Mrs X,3.99,Marvel,24250.0
+Green Lanterns,3.99,DC,23821.0
+Green Lanterns,3.99,DC,23444.0
+Old Man Hawkeye,3.99,Marvel,23234.0
+Daredevil,3.99,Marvel,23002.0
+Weapon H,3.99,Marvel,22854.0
+Silver Surfer Annual,4.99,Marvel,22617.0
+Supergirl,3.99,DC,22113.0
+Cemetery Beach,3.99,Image,22094.0
+Star Wars Lando Double or Nothing,3.99,Marvel,22015.0
+True Believers Daredevil By Lee & Everett,1.0,Marvel,21831.0
+Domino,3.99,Marvel,21738.0
+Star Wars Poe Dameron,4.99,Marvel,21370.0
+Terrifics,2.99,DC,21240.0
+Mighty Morphin Power Rangers,3.99,Boom,20881.0
+Spawn,2.99,Image,20598.0
+Spider-Man Deadpool,3.99,Marvel,20346.0
+Spider-Man Deadpool,3.99,Marvel,20334.0
+Weapon X,3.99,Marvel,20244.0
+Champions,3.99,Marvel,20082.0
+Paper Girls,3.99,Image,20045.0
+Rick & Morty Vs. Dungeons & Dragons,3.99,IDW,19998.0
+Green Arrow,3.99,DC,18667.0
+United States Vs. Murder Inc,3.99,DC,18530.0
+Unnatural,3.99,Image,18204.0
+True Believers Luke Cage Hero For Hire,1.0,Marvel,18203.0
+Kick-Ass,3.99,Image,18166.0
+Sentry,3.99,Marvel,17965.0
+Seven to Eternity,3.99,Image,17778.0
+Plastic Man,3.99,DC,17548.0
+Moon Knight,3.99,Marvel,17344.0
+Injustice Vs. The Masters of the Universe,3.99,DC,17192.0
+Vampirella Dejah Thoris,3.99,Dynamite,17011.0
+Pearl,3.99,DC,16808.0
+Star Wars Last Jedi Adaptation,4.99,Marvel,16674.0
+Journey Into Mystery Birth of Krakoa,4.99,Marvel,16597.0
+Archie Meets Batman 66,3.99,Archie,16397.0
+True Believers Punisher By Grant & Zeck,1.0,Marvel,15980.0
+Batman Beyond,3.99,DC,15863.0
+Hit-Girl,3.99,Image,15615.0
+True Believers Iron Fist By Thomas & Kane,1.0,Marvel,15532.0
+Marvel Rising Omega,4.99,Marvel,15484.0
+Immortal Men,2.99,DC,15341.0
+Amazing Spider-Man Renew Your Vows,3.99,Marvel,15301.0
+Border Town,3.99,DC,15259.0
+Mystery Science Theater 3000,3.99,Dark Horse,14624.0
+Scarlet,3.99,DC,13746.0
+Rick & Morty,3.99,Oni,13298.0
+Multiple Man,3.99,Marvel,13275.0
+Wild Storm,3.99,DC,13211.0
+Ant-Man and the Wasp,3.99,Marvel,13127.0
+John Wick,3.99,Dynamite,13098.0
+Ms. Marvel,3.99,Marvel,12927.0
+Farmhand,3.99,Image,12723.0
+Sonic The Hedgehog,3.99,IDW,12685.0
+Ben Reilly Scarlet Spider,3.99,Marvel,12680.0
+Exiles,3.99,Marvel,12594.0
+Sideways,2.99,DC,12503.0
+True Believers Power Man and Iron Fist,1.0,Marvel,12459.0
+Ben Reilly Scarlet Spider,3.99,Marvel,12414.0
+Neil Gaiman American Gods My Ainsel,3.99,Dark Horse,12407.0
+New Challengers,2.99,DC,12396.0
+Damage,2.99,DC,12383.0
+Fantastic Four,5.99,Marvel,12353.0
+Runaways,3.99,Marvel,12328.0
+Death or Glory,3.99,Image,12268.0
+Rick & Morty Presents Sleepy Gary,4.99,Oni,12032.0
+Jinxworld Sampler,1.0,DC,12006.0
+Elvira Mistress of Dark,3.99,Dynamite,11987.0
+League of Extraordinary Gentlemen Tempest,4.99,IDW,11965.0
+Archie 1941,3.99,Archie,11946.0
+True Believers Hellcat First Appearance,1.0,Marvel,11946.0
+Raven Daughter of Darkness,3.99,DC,11916.0
+True Believers Jessica Jones Alias By Bendis & Gaydos,1.0,Marvel,11769.0
+True Believers Punisher War Journal By Potts & Lee,1.0,Marvel,11623.0
+Scooby Apocalypse,3.99,DC,11615.0
+Star Trek Vs. Transformers,3.99,IDW,11585.0
+Leviathan,3.99,Image,11539.0
+True Believers Punisher By Ennis Dillon & Palmiotti,1.0,Marvel,11496.0
+True Believers Daredevil By Smith Quesada & Palmiotti,1.0,Marvel,11268.0
+Black Hammer Age of Doom,3.99,Dark Horse,11094.0
+Silencer,2.99,DC,10970.0
+James Bond Origin,3.99,Dynamite,10820.0
+Curse of Brimstone,2.99,DC,10731.0
+Man-Eaters,3.99,Image,10390.0
+True Believers Daredevil By Bendis & Maleev,1.0,Marvel,10366.0
+Snotgirl,3.99,Image,10316.0
+Star Wars Adventures,3.99,IDW,10199.0
+Buffy the Vampire Slayer Season 12 The Reckoning,3.99,Dark Horse,10195.0
+Unexpected,2.99,DC,10116.0
+Go Go Power Rangers Back to School,7.99,Boom,10053.0
+TMNT,3.99,IDW,9946.0
+Wicked & Divine,3.99,Image,9853.0
+Wicked & Divine 1373,3.99,Image,9796.0
+Venom,3.99,Marvel,9765.0
+Injustice 2,2.99,DC,9684.0
+Vampironica,3.99,Archie,9611.0
+True Believers Black Widow By Grayson & Jones,1.0,Marvel,9601.0
+Injustice 2,2.99,DC,9469.0
+True Believers Daredevil and the Defenders,1.0,Marvel,9357.0
+Burnouts,3.99,Image,9346.0
+Transformers Unicron,4.99,IDW,9313.0
+Jim Henson Labyrinth Coronation,3.99,Boom,9129.0
+Unbeatable Squirrel Girl,3.99,Marvel,8978.0
+MCMLXXV,3.99,Image,8916.0
+Teen Titans Go,2.99,DC,8867.0
+Black Science,3.99,Image,8865.0
+Cold Spots,3.99,Image,8828.0
+Dick Tracy Dead or Alive,3.99,IDW,8770.0
+Seeds,3.99,Dark Horse,8585.0
+Red Sonja,3.99,Dynamite,8381.0
+Weatherman,3.99,Image,8381.0
+Ice Cream Man,3.99,Image,8330.0
+X-O Manowar,3.99,Valiant,8257.0
+Quicksilver No Surrender,3.99,Marvel,8252.0
+Wrong Earth,3.99,Ahoy,8251.0
+My Little Pony Friendship Is Magic,3.99,IDW,8232.0
+Man-Eaters,4.99,Image,8226.0
+Rat Queens,3.99,Image,7888.0
+Moon Girl and Devil Dinosaur,3.99,Marvel,7883.0
+Marvel Super-Hero Adventures Captain Marvel First Day of School,3.99,Marvel,7797.0
+G.I. Joe a Real American Hero Silent Option,4.99,IDW,7674.0
+Redneck,3.99,Image,7617.0
+Invader Zim,3.99,Oni,7332.0
+Predator Hunters II,3.99,Dark Horse,7219.0
+Curse Words,3.99,Image,7181.0
+Invader Zim,3.99,Oni,7175.0
+TMNT Urban Legends,3.99,IDW,7115.0
+Star Trek TNG Terra Incognita,3.99,IDW,7059.0
+Harbinger Wars 2 Aftermath,3.99,Valiant,6974.0
+Project Superpowers,3.99,Dynamite,6959.0
+Realm,3.99,Image,6716.0
+G.I. Joe a Real American Hero,3.99,IDW,6709.0
+Crowded,3.99,Image,6474.0
+Transformers Lost Light,3.99,IDW,6275.0
+My Little Pony Ponyville Mysteries,3.99,IDW,6237.0
+Shadowman,3.99,Valiant,6195.0
+Wildstorm Michael Cray,3.99,DC,6130.0
+Mage Hero Denied,3.99,Image,6125.0
+New World,3.99,Image,6083.0
+Strangers In Paradise XXV,3.99,Abstract,6064.0
+True Believers Mk 210th Annv Luke Cage Fantastic Four,1.0,Marvel,6010.0
+Disney Frozen Breaking Boundaries,3.99,Dark Horse,5971.0
+Ducktales,3.99,IDW,5966.0
+Bone Parish,3.99,Boom,5955.0
+Ninja-K,3.99,Valiant,5923.0
+BPRD Devil You Know,3.99,Dark Horse,5915.0
+Skyward,3.99,Image,5894.0
+Disney Pixar Incredibles 2,3.99,Dark Horse,5881.0
+Scooby Doo Team Up,2.99,DC,5879.0
+Head Lopper,5.99,Image,5834.0
+Doctor Who 13th,7.99,Titan,5821.0
+Black Badge,3.99,Boom,5809.0
+Faith Dreamside,3.99,Valiant,5752.0
+Hack Slash Resurrection,3.99,Image,5613.0
+Chief Wiggums Felonious Funnies,3.99,Bongo,5569.0
+Witchblade,3.99,Image,5498.0
+Hey Kids Comics,3.99,Image,5481.0
+Transformers Lost Light,3.99,IDW,5434.0
+Britannia Lost Eagles of Rome,3.99,Valiant,5421.0
+Beasts of Burden Wise Dogs and Eldritch Men,3.99,Dark Horse,5373.0
+Optimus Prime,3.99,IDW,5370.0
+Last Siege,3.99,Image,5363.0
+Bloodborne,3.99,Titan,5329.0
+Low Road West,3.99,Boom,5326.0
+Elric White Wolf,3.99,Titan,5272.0
+Shanghai Red,3.99,Image,5248.0
+Zombie Tramp,4.99,Action Lab,5189.0
+Infinity Wars Prime,4.99,Marvel,5161.0
+Birthright,3.99,Image,5157.0
+Venom,3.99,Marvel,5099.0
+Olivia Twist,4.99,Dark Horse,5055.0
+Terminator Sector War,3.99,Dark Horse,5055.0
+War Bears,4.99,Dark Horse,5040.0
+Hillbilly Red Eyed Witchery From Beyond,3.99,Albatross,4961.0
+Tarot Witch of the Black Rose,2.95,Broadsword,4855.0
+Stellar,3.99,Image,4822.0
+Dejah Thoris,3.99,Dynamite,4782.0
+Nightmare Before Christmas Zeros Journey,3.99,Tokyopop,4758.0
+Amazing Spider-Man,3.99,Marvel,4708.0
+Nightmare Before Christmas Zeros Journey,3.99,Tokyopop,4645.0
+Rumble,3.99,Image,4558.0
+Joe Golem,3.99,Dark Horse,4516.0
+Coda,3.99,Boom,4480.0
+Spongebob Comics,3.99,United Plankton,4430.0
+Dead Hand,3.99,Image,4377.0
+Quantum & Woody,3.99,Valiant,4368.0
+Over Garden Wall Hollow Town,3.99,Boom,4354.0
+Moth & Whisper,3.99,Aftershock,4294.0
+Grimm Tales of Terror 2018 Halloween Edition,5.99,Zenescope,4242.0
+Usagi Yojimbo,3.99,Dark Horse,4229.0
+Gideon Falls,4.99,Image,4189.0
+Bubba Ho-Tep & Cosmic Blood-Suckers,3.99,IDW,4182.0
+Doctor Who Road to 13th Dr,3.99,Titan,4147.0
+Nightmare Before Christmas Zeros Journey,3.99,Tokyopop,4117.0
+She Could Fly,4.99,Dark Horse,4095.0
+Dark Ark,3.99,Aftershock,4081.0
+Uncle Scrooge My First Millions,3.99,IDW,4078.0
+Call of Duty Zombies 2,3.99,Dark Horse,4052.0
+Amazing Spider-Man,3.99,Marvel,4011.0
+WWE Nxt Takeover Blueprint,3.99,Boom,4011.0
+Uncle Scrooge,3.99,IDW,3983.0
+Days of Hate,3.99,Image,3952.0
+Steven Universe,3.99,Boom,3900.0
+Jeepers Creepers,3.99,Dynamite,3899.0
+Ghostbusters Crossing Over,3.99,IDW,3867.0
+Nancy Drew,3.99,Dynamite,3862.0
+Steven Universe Harmony,3.99,Boom,3858.0
+Regression,3.99,Image,3825.0
+Infinity Countdown,4.99,Marvel,3820.0
+Patience Conviction Revenge,3.99,Aftershock,3710.0
+Pestilence Story of Satan,3.99,Aftershock,3696.0
+Xena,3.99,Dynamite,3676.0
+Savage Dragon,3.99,Image,3668.0
+Grimm Fairy Tales,3.99,Zenescope,3632.0
+Outpost Zero,3.99,Image,3630.0
+Welcome to Wanderland,3.99,Boom,3573.0
+Ether The Copper Golems,3.99,Dark Horse,3569.0
+Cyber Force,3.99,Image,3533.0
+Relay,3.99,Aftershock,3498.0
+Sword of Ages,3.99,IDW,3487.0
+Witchfinder Gates of Heaven,3.99,Dark Horse,3467.0
+Aphrodite V,3.99,Image,3430.0
+Flavor,3.99,Image,3383.0
+Looney Tunes,2.99,DC,3346.0
+Beauty,3.99,Image,3345.0
+Amazing Spider-Man,3.99,Marvel,3335.0
+Thief of Thieves,3.99,Image,3334.0
+Aphrodite IX Ares,3.99,Image,3324.0
+WWE Nxt Takeover Into The Fire,3.99,Boom,3318.0
+Rick & Morty Vs. Dungeons & Dragons,3.99,IDW,3313.0
+Charlies Angels,3.99,Dynamite,3298.0
+Gamma,3.99,Dark Horse,3290.0
+WWE Nxt Takeover Proving Ground,3.99,Boom,3284.0
+Infinity Wars,4.99,Marvel,3233.0
+Wayward,3.99,Image,3224.0
+Betty and Veronica Vixens,3.99,Archie,3197.0
+WWE Nxt Takeover Redemption,3.99,Boom,3153.0
+Vampblade Season 3,4.99,Action Lab,3098.0
+Revenge of Wonderland,3.99,Zenescope,3028.0
+Lumberjanes,3.99,Boom,3020.0
+Voltron Legendary Defender Vol. 3,3.99,Lion Forge,3018.0
+Mata Hari,3.99,Dark Horse,2980.0
+Cosmic Ghost Rider,3.99,Marvel,2956.0
+Fathom Vol. 7,3.99,Aspen,2900.0
+Coyotes,3.99,Image,2879.0
+World of Tanks Citadel,3.99,Dark Horse,2874.0
+Beyonders,3.99,Aftershock,2847.0
+Stray Bullets Sunshine & Roses,4.99,Image,2845.0
+Eclipse,3.99,Image,2795.0
+Scales & Scoundrels,3.99,Image,2791.0
+Walt Disney Comics & Stories,5.99,IDW,2765.0
+Crossed Plus 100 Mimic,5.99,Avatar,2751.0
+Bonehead,3.99,Image,2739.0
+Disney Comics and Stories,5.99,IDW,2702.0
+Fearscape,3.99,Vault,2671.0
+Proxima Centauri,3.99,Image,2660.0
+Extermination,4.99,Marvel,2654.0
+Infinity Wars,5.99,Marvel,2632.0
+Evolution,3.99,Image,2592.0
+Mike Hammer,3.99,Titan,2582.0
+Sleepless,3.99,Image,2558.0
+Rockos Modern Life,3.99,Boom,2455.0
+Grimm Fairy Tales Tales of Terror Vol. 4,3.99,Zenescope,2443.0
+Crude,3.99,Image,2430.0
+Stabbity Bunny,3.99,Scout,2428.0
+Lost City Explorers,3.99,Aftershock,2414.0
+Moon Maid,3.99,American Mythology,2413.0
+Haunted Horror,4.99,IDW,2374.0
+Grimm Fairy Tales Tales of Terror Vol. 4,3.99,Zenescope,2356.0
+Impossible Inc,3.99,IDW,2344.0
+Stargate Universe,3.99,American Mythology,2318.0
+Ruinworld,3.99,Boom,2299.0
+Hot Lunch Special,3.99,Aftershock,2273.0
+Mech Cadet Yu,3.99,Boom,2272.0
+Volition,3.99,Aftershock,2265.0
+Fantasmagoria,1.99,Starburns,2183.0
+Junior High Horrors,4.99,Keenspot,2147.0
+Come Into Me,3.99,Black Mask,2133.0
+Jasmine Crown of Kings,3.99,Zenescope,2124.0
+Shadow Roads,3.99,Oni,2121.0
+Fence,3.99,Boom,2109.0
+Kim Reaper Vampire Island,3.99,Oni,2083.0
+Girl Who Danced With Death Mill Saga,5.99,Titan,2071.0
+Gasolina,3.99,Image,2046.0
+Giant Days,3.99,Boom,2027.0
+Crisis On Infinite Cerebi,4.0,Aardvark-Vanaheim,2014.0
+Regular Show 25 Years Later,3.99,Boom,2014.0
+Soulfire Vol. 7,3.99,Aspen,2008.0
+High Heaven,3.99,Ahoy,1988.0
+Friendo,3.99,Vault,1960.0
+Immortal Hulk,3.99,Marvel,1955.0
+Casper Capers,3.99,American Mythology,1939.0
+Paradiso,3.99,Image,1933.0
+Knights of the Dinner Table,5.99,Kenzer,1928.0
+Caspers Ghostland,3.99,American Mythology,1920.0
+Raid,3.99,Titan,1916.0
+Underdog,3.99,American Mythology,1906.0
+By Night,3.99,Boom,1898.0
+Blood Realm,1.5,Alterna,1896.0
+Garfield Homecoming,3.99,Boom,1892.0
+New Lieutenants of Metal,3.99,Image,1855.0
+Exilium,1.5,Alterna,1854.0
+Fantastic Four Facsimile Edition,3.99,Marvel,1854.0
+Starcraft Scavengers,3.99,Dark Horse,1825.0
+Captain America,3.99,Marvel,1809.0
+Rags,3.99,Antarctic,1805.0
+Modern Fantasy,3.99,Dark Horse,1783.0
+Avengers,3.99,Marvel,1777.0
+Thrilling Adventure Hour,3.99,Boom,1775.0
+Newbury & Hobbes,3.99,Titan,1743.0
+Clankillers,3.99,Aftershock,1666.0
+It Came Out On a Wednesday,1.99,Alterna,1630.0
+Paradise Court,3.99,Zenescope,1595.0
+Death of Inhumans,3.99,Marvel,1580.0
+Thor,3.99,Marvel,1569.0
+Trumps Titans Vs. Diversity,4.99,Keenspot,1567.0
+Life of Captain Marvel,3.99,Marvel,1527.0
+Executive Assistant Iris Vol. 5,3.99,Aspen,1510.0
+Rocky & Bullwinkle Show,3.99,American Mythology,1505.0
+The Vigilant One Shot,4.99,Rebellion,1456.0
+Justice League Dark,3.99,DC,1418.0
+Long Con,3.99,Oni,1416.0
+Oh S#!T Its Kim & Kim,3.99,Black Mask,1408.0
+Lookers Ember,7.99,Avatar,1406.0
+Breathless,3.99,Black Mask,1401.0
+Assassins Creed Conspiracies,5.99,Titan,1385.0
+Black Panther,3.99,Marvel,1365.0
+Robots Vs. Princesses,3.99,Dynamite,1347.0
+Dollman Kills The Full Moon Universe,3.99,Full Moon,1295.0
+Lowlifes,3.99,IDW,1289.0
+Real Science Adventures Nicodemus Job,3.99,IDW,1286.0
+Wasted Space,3.99,Vault,1284.0
+The Three Stooges Matinee Madness,3.99,American Mythology,1254.0
+Pink Panther Surfside Special,3.99,American Mythology,1243.0
+Mae Vol. 2,3.99,Lion Forge,1237.0
+Poser,3.99,Waxwork,1172.0
+Doomsday Clock,4.99,DC,1167.0
+Metaphase,1.99,Alterna,1157.0
+Dellec Vol. 2,3.99,Aspen,1148.0
+Nancy In Hell,2.99,Amigo,1144.0
+Steam-Age Wasteland One-Shot,3.99,Antarctic,1128.0
+Dissension War Eternal,3.99,Aspen,1127.0
+Infinity 8,3.99,Lion Forge,1126.0
+Long Con,3.99,Oni,1124.0
+X-23,3.99,Marvel,1123.0
+John Carpenter Tales of Sci Fi Standoff,3.99,Storm King,1117.0
+Gold Digger,3.99,Antarctic,1103.0
+Beyonders,3.99,Aftershock,1094.0
+Deadlife,6.99,Titan,1055.0
+Lookers Ember,5.99,Avatar,1034.0
+Kaijumax Season 4,3.99,Oni,1028.0
+Zinnober,3.99,Scout,1002.0
+Tony Stark Iron Man,3.99,Marvel,983.0
+House of Waxwork,3.99,Waxwork,977.0
+Venom,3.99,Marvel,975.0
+Vamplets Beware Bitmares One Shot,3.99,Action Lab,958.0
+Mighty Morphin Power Rangers,3.99,Boom,948.0
+The XII,1.5,Alterna,919.0
+Venom,3.99,Marvel,898.0
+Little Girl,3.99,Devil's Due,881.0
+Nu Way,3.99,Aspen,878.0
+Athena Voltaire 2018,3.99,Action Lab,871.0
+Justice League Dark,3.99,DC,848.0
+Dinosaucers,3.99,Lion Forge,831.0
+Justice League,3.99,DC,828.0
+Die Die Die,3.99,Image,819.0
+Guncats,3.99,Action Lab,788.0
+Unnatural,3.99,Image,785.0
+Amazing Spider-Man,5.99,Marvel,778.0
+Aberrant,3.99,Action Lab,772.0
+Hunt For Wolverine Dead Ends,4.99,Marvel,772.0
+Vagrant Queen,3.99,Vault,769.0
+Mainstream,3.99,Zenescope,764.0
+Farmhand,3.99,Image,763.0
+Mr and Mrs X,3.99,Marvel,736.0
+Betty & Veronica Jumbo Comics Digest,6.99,Archie,733.0
+True Believers Infinity Gauntlet,1.0,Marvel,733.0
+Riptide,3.95,Red 5,732.0
+Cold Spots,3.99,Image,717.0
+Doomsday Clock,4.99,DC,710.0
+Family Graves,3.99,Source Point,709.0
+Batman,3.99,DC,706.0
+Scarlet,3.99,DC,701.0
+Harley Quinn Gossamer Special,4.99,DC,694.0
+Rivers of London Water Weed,3.99,Titan,686.0
+Joker Daffy Duck Special,4.99,DC,685.0
+Doomsday Clock,4.99,DC,670.0
+Archie Jumbo Comics Digest,6.99,Archie,666.0
+Long Lost Part Two,3.99,Scout,648.0
+Justice League,3.99,DC,644.0
+Superman,3.99,DC,617.0
+B & V Friends Jumbo Comics Digest,6.99,Archie,608.0
+Sniper Elite Resistance,3.99,Rebellion,607.0
+True Believers Venom Carnage,1.0,Marvel,605.0
+Action Comics,3.99,DC,599.0
+Doomsday Clock,4.99,DC,590.0
+Catalyst Prime Noble,3.99,Lion Forge,582.0
+World of Archie Jumbo Comics Digest,6.99,Archie,577.0
+Catalyst Prime Superb,3.99,Lion Forge,571.0
+Doomsday Clock,4.99,DC,562.0
+Hellicious,3.99,Starburns,558.0
+Pearl,3.99,DC,551.0
+Star Wars Darth Vader,3.99,Marvel,549.0
